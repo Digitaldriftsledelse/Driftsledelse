@@ -1,0 +1,429 @@
+[
+  {
+    "Fylke": "Akershus",
+    "Kommune": "Bærum",
+    "Behov": "Flomsikring Isielva ved Vøyenenga",
+    "Kostnadsoverslag": "45 000 000",
+    "navn": "Akershus"
+  },
+  {
+    "Fylke": "Akershus",
+    "Kommune": "Fet",
+    "Behov": "Flomsikring Glomma ved Fetsund",
+    "Kostnadsoverslag": "30 000 000",
+    "navn": "Akershus"
+  },
+  {
+    "Fylke": "Akershus",
+    "Kommune": "Flere",
+    "Behov": "Sikring av kartlagte kvikkleiresoner",
+    "Kostnadsoverslag": "50 000 000",
+    "navn": "Akershus"
+  },
+  {
+    "Fylke": "Aust- og Vest Agder",
+    "Kommune": "Flere kommuner",
+    "Behov": "Sikring av kartlagte kvikkleiresoner",
+    "Kostnadsoverslag": "50 000 000",
+    "navn": "Aust- og Vest Agder"
+  },
+  {
+    "Fylke": "Aust- og Vest Agder",
+    "Kommune": "Flere kommuner",
+    "Behov": "Utredning av tiltak etter Sørlandsflommen (blant annet vassdragene Tovdal, Audna, Mandal)",
+    "Kostnadsoverslag": "130 000 000",
+    "navn": "Aust- og Vest Agder"
+  },
+  {
+    "Fylke": "Aust- og Vest Agder",
+    "Kommune": "Kvinesdal",
+    "Behov": "Flomsikring Liknes",
+    "Kostnadsoverslag": "80 000 000",
+    "navn": "Aust- og Vest Agder"
+  },
+  {
+    "Fylke": "Aust- og Vest Agder",
+    "Kommune": "Sirdal",
+    "Behov": "Flomsikring Tonstad",
+    "Kostnadsoverslag": "30 000 000",
+    "navn": "Aust- og Vest Agder"
+  },
+  {
+    "Fylke": "Buskerud",
+    "Kommune": "Kongsberg",
+    "Behov": "Sikring av kvikkleiresoner Hvittingfoss",
+    "Kostnadsoverslag": "15 000 000",
+    "navn": "Buskerud"
+  },
+  {
+    "Fylke": "Buskerud",
+    "Kommune": "Nedre Eiker",
+    "Behov": "Flomsikring Mjøndalen",
+    "Kostnadsoverslag": "150 000 000",
+    "navn": "Buskerud"
+  },
+  {
+    "Fylke": "Buskerud",
+    "Kommune": "Nedre Eiker og Øvre Eiker",
+    "Behov": "Sikring av kvikkleiresoner",
+    "Kostnadsoverslag": "40 000 000",
+    "navn": "Buskerud"
+  },
+  {
+    "Fylke": "Finnmark",
+    "Kommune": "Alta",
+    "Behov": "Sikring av kvikkleiresoner Alta",
+    "Kostnadsoverslag": "10 000 000",
+    "navn": "Finnmark"
+  },
+  {
+    "Fylke": "Finnmark",
+    "Kommune": "Hammerfest",
+    "Behov": "Snøskredsikring Hammerfest",
+    "Kostnadsoverslag": "25 000 000",
+    "navn": "Finnmark"
+  },
+  {
+    "Fylke": "Finnmark",
+    "Kommune": "Nordkapp",
+    "Behov": "Snøskredsikring Honningsvåg",
+    "Kostnadsoverslag": "25 000 000",
+    "navn": "Finnmark"
+  },
+  {
+    "Fylke": "Hedmark",
+    "Kommune": "Elverum",
+    "Behov": "Flomsikring Glomma ved Heradsbygda",
+    "Kostnadsoverslag": "10 000 000",
+    "navn": "Hedmark"
+  },
+  {
+    "Fylke": "Hedmark",
+    "Kommune": "Hamar",
+    "Behov": "Flomsikring ved Mjøsa",
+    "Kostnadsoverslag": "30 000 000",
+    "navn": "Hedmark"
+  },
+  {
+    "Fylke": "Hedmark",
+    "Kommune": "Kongsvinger",
+    "Behov": "Flomsikring Glomma",
+    "Kostnadsoverslag": "30 000 000",
+    "navn": "Hedmark"
+  },
+  {
+    "Fylke": "Hedmark",
+    "Kommune": "Stor-Elvdal",
+    "Behov": "Flomsikring Glomma ved Granrud-Nesset",
+    "Kostnadsoverslag": "5 000 000",
+    "navn": "Hedmark"
+  },
+  {
+    "Fylke": "Hedmark",
+    "Kommune": "Tynset",
+    "Behov": "Flomsikring Glomma ved Tynset",
+    "Kostnadsoverslag": "10 000 000",
+    "navn": "Hedmark"
+  },
+  {
+    "Fylke": "Hedmark og Oppland",
+    "Kommune": "Flere kommuner",
+    "Behov": "Vedlikehold eksisterende flomverk og pumper",
+    "Kostnadsoverslag": "150 000 000",
+    "navn": "Hedmark og Oppland"
+  },
+  {
+    "Fylke": "Hordaland",
+    "Kommune": "Bergen",
+    "Behov": "Flomsikring Nestunvassdraget",
+    "Kostnadsoverslag": "80 000 000",
+    "navn": "Hordaland"
+  },
+  {
+    "Fylke": "Hordaland",
+    "Kommune": "Odda",
+    "Behov": "Flomsikring Sandvinvatnet",
+    "Kostnadsoverslag": "105 000 000",
+    "navn": "Hordaland"
+  },
+  {
+    "Fylke": "Hordaland",
+    "Kommune": "Ullensvang",
+    "Behov": "Skredsikring Vikebygd",
+    "Kostnadsoverslag": "Ikke estimert",
+    "navn": "Hordaland"
+  },
+  {
+    "Fylke": "Hordaland",
+    "Kommune": "Voss",
+    "Behov": "Flomsikring Vossovassdraget",
+    "Kostnadsoverslag": "1 500 000 000",
+    "navn": "Hordaland"
+  },
+  {
+    "Fylke": "Møre og  Romsdal",
+    "Kommune": "Vestnes",
+    "Behov": "Skredsikring Tomrefjorden",
+    "Kostnadsoverslag": "40 000 000",
+    "navn": "Møre og  Romsdal"
+  },
+  {
+    "Fylke": "Møre og  Romsdal",
+    "Kommune": "Volda",
+    "Behov": "Flom- og skredsikring",
+    "Kostnadsoverslag": "70 000 000",
+    "navn": "Møre og  Romsdal"
+  },
+  {
+    "Fylke": "Nordland",
+    "Kommune": "Bodø",
+    "Behov": "Flomsikring Bodøelva",
+    "Kostnadsoverslag": "50 000 000",
+    "navn": "Nordland"
+  },
+  {
+    "Fylke": "Nordland",
+    "Kommune": "Hemnes",
+    "Behov": "Sikring av kvikkleiresoner Engesmoen, Kattuglmoen,  Auringmoen",
+    "Kostnadsoverslag": "15 000 000",
+    "navn": "Nordland"
+  },
+  {
+    "Fylke": "Nordland",
+    "Kommune": "Rana",
+    "Behov": "Sikring av kvikkleiresone Ytrabekken",
+    "Kostnadsoverslag": "10 000 000",
+    "navn": "Nordland"
+  },
+  {
+    "Fylke": "Oppland",
+    "Kommune": "Gausdal",
+    "Behov": "Flere flomsikringstiltak",
+    "Kostnadsoverslag": "25 000 000",
+    "navn": "Oppland"
+  },
+  {
+    "Fylke": "Oppland",
+    "Kommune": "Gran",
+    "Behov": "Flomsikring Vigga ved Brandbu",
+    "Kostnadsoverslag": "75 000 000",
+    "navn": "Oppland"
+  },
+  {
+    "Fylke": "Oppland",
+    "Kommune": "Kommuner i",
+    "Behov": "Sikring av kartlagte skredfareområder",
+    "Kostnadsoverslag": "30 000 000",
+    "navn": "Oppland"
+  },
+  {
+    "Fylke": "Oppland",
+    "Kommune": "Nord-Fron",
+    "Behov": "Flomsikring og skredsikring",
+    "Kostnadsoverslag": "40 000 000",
+    "navn": "Oppland"
+  },
+  {
+    "Fylke": "Oppland",
+    "Kommune": "Ringebu",
+    "Behov": "Flomsikring Våla ved Vålebrua",
+    "Kostnadsoverslag": "5 000 000",
+    "navn": "Oppland"
+  },
+  {
+    "Fylke": "Oppland",
+    "Kommune": "Sel",
+    "Behov": "Flomsikring Otta og Lågen",
+    "Kostnadsoverslag": "45 000 000",
+    "navn": "Oppland"
+  },
+  {
+    "Fylke": "Oppland",
+    "Kommune": "Sør-Fron",
+    "Behov": "Skredsikring",
+    "Kostnadsoverslag": "5 000 000",
+    "navn": "Oppland"
+  },
+  {
+    "Fylke": "Oppland",
+    "Kommune": "Øyer",
+    "Behov": "Flere flom/erosjonssikringstiltak",
+    "Kostnadsoverslag": "40 000 000",
+    "navn": "Oppland"
+  },
+  {
+    "Fylke": "Rogaland",
+    "Kommune": "Bjerkreim",
+    "Behov": "Flomsikring Vikeså",
+    "Kostnadsoverslag": "25 000 000",
+    "navn": "Rogaland"
+  },
+  {
+    "Fylke": "Rogaland",
+    "Kommune": "Eigersund",
+    "Behov": "Flomsikring Egersund",
+    "Kostnadsoverslag": "15 000 000",
+    "navn": "Rogaland"
+  },
+  {
+    "Fylke": "Rogaland",
+    "Kommune": "Hå",
+    "Behov": "Flomsikring Hå",
+    "Kostnadsoverslag": "60 000 000",
+    "navn": "Rogaland"
+  },
+  {
+    "Fylke": "Rogaland",
+    "Kommune": "Lund",
+    "Behov": "Flomsikring Moi",
+    "Kostnadsoverslag": "100 000 000",
+    "navn": "Rogaland"
+  },
+  {
+    "Fylke": "Rogaland",
+    "Kommune": "Sokndal",
+    "Behov": "Flomsikring Sokndalen",
+    "Kostnadsoverslag": "150 000 000",
+    "navn": "Rogaland"
+  },
+  {
+    "Fylke": "Sogn og Fjordane",
+    "Kommune": "Aurland",
+    "Behov": "Flomsikring Flåm",
+    "Kostnadsoverslag": "Ikke estimert",
+    "navn": "Sogn og Fjordane"
+  },
+  {
+    "Fylke": "Sogn og Fjordane",
+    "Kommune": "Gloppen",
+    "Behov": "Flomsikring i Sandane, og skredsikring",
+    "Kostnadsoverslag": "20 000 000",
+    "navn": "Sogn og Fjordane"
+  },
+  {
+    "Fylke": "Sogn og Fjordane",
+    "Kommune": "Hornindal",
+    "Behov": "Flomsikring Vikelva",
+    "Kostnadsoverslag": "10 000 000",
+    "navn": "Sogn og Fjordane"
+  },
+  {
+    "Fylke": "Sogn og Fjordane",
+    "Kommune": "Lærdal",
+    "Behov": "Lærdalselva",
+    "Kostnadsoverslag": "40 000 000",
+    "navn": "Sogn og Fjordane"
+  },
+  {
+    "Fylke": "Sogn og Fjordane",
+    "Kommune": "Stryn",
+    "Behov": "Flom og skredsikring",
+    "Kostnadsoverslag": "30 000 000",
+    "navn": "Sogn og Fjordane"
+  },
+  {
+    "Fylke": "Svalbard",
+    "Kommune": "Longyearbyen",
+    "Behov": "Skredsikring Longyearbyen og flomsikring Longyearelva",
+    "Kostnadsoverslag": "163 000 000",
+    "navn": "Svalbard"
+  },
+  {
+    "Fylke": "Telemark",
+    "Kommune": "Skien og Porsgrunn",
+    "Behov": "Sikring av kvikkleiresoner i Skien og Porsgrunn",
+    "Kostnadsoverslag": "50 000 000",
+    "navn": "Telemark"
+  },
+  {
+    "Fylke": "Troms",
+    "Kommune": "Kåfjord",
+    "Behov": "Skredsikring Samuelsberg, Olderdalen og Kåfjordalen",
+    "Kostnadsoverslag": "5  000 000",
+    "navn": "Troms"
+  },
+  {
+    "Fylke": "Troms",
+    "Kommune": "Tromsø",
+    "Behov": "Sikring av kvikkleiresoner Tromsø",
+    "Kostnadsoverslag": "10 000 000",
+    "navn": "Troms"
+  },
+  {
+    "Fylke": "Trøndelag",
+    "Kommune": "Klæbu",
+    "Behov": "Sikring av kvikkleiresoner Klæbu",
+    "Kostnadsoverslag": "10 000 000",
+    "navn": "Trøndelag"
+  },
+  {
+    "Fylke": "Trøndelag",
+    "Kommune": "Levanger",
+    "Behov": "Flomsikring Levanger sentrum, Kvikkleiresikring Ytterøya  og Levangerelva",
+    "Kostnadsoverslag": "15 000 000",
+    "navn": "Trøndelag"
+  },
+  {
+    "Fylke": "Trøndelag",
+    "Kommune": "Namsos mf",
+    "Behov": "Sikring av kvikkleiresoner Namsen",
+    "Kostnadsoverslag": "20 000 000",
+    "navn": "Trøndelag"
+  },
+  {
+    "Fylke": "Trøndelag",
+    "Kommune": "Overhalla",
+    "Behov": "Sikring av kvikkleiresoner Reina",
+    "Kostnadsoverslag": "5 000 000",
+    "navn": "Trøndelag"
+  },
+  {
+    "Fylke": "Trøndelag",
+    "Kommune": "Steinkjer",
+    "Behov": "Sikring av kvikkleiresoner Ogna",
+    "Kostnadsoverslag": "10 000 000",
+    "navn": "Trøndelag"
+  },
+  {
+    "Fylke": "Trøndelag",
+    "Kommune": "Stjørdal mf",
+    "Behov": "Flomsikring Stjørdalselva, Kvikkleiresikring Leksa, Trælstad, Mona, m.m.",
+    "Kostnadsoverslag": "50 000 000",
+    "navn": "Trøndelag"
+  },
+  {
+    "Fylke": "Trøndelag",
+    "Kommune": "Verdal",
+    "Behov": "Flomsikring Vuku sentrum, Verdalselva, kvikkleiresikring Stiklestad",
+    "Kostnadsoverslag": "30 000 000",
+    "navn": "Trøndelag"
+  },
+  {
+    "Fylke": "Trøndelag",
+    "Kommune": "Melhus",
+    "Behov": "Sikring av kvikkleiresoner Møsta, Rødde og Klett",
+    "Kostnadsoverslag": "35 000 000",
+    "navn": "Trøndelag"
+  },
+  {
+    "Fylke": "Trøndelag",
+    "Kommune": "Skaun",
+    "Behov": "Sikring av kvikkleiresoner Viggja i Skaun",
+    "Kostnadsoverslag": "10 000 000",
+    "navn": "Trøndelag"
+  },
+  {
+    "Fylke": "Trøndelag",
+    "Kommune": "Trondheim",
+    "Behov": "Sikring av kvikkleiresoner Leira, Byneset, Rosten, Kolstad,   Saupstad, Romuldslia, flomsikring Nidelva",
+    "Kostnadsoverslag": "30 000 000",
+    "navn": "Trøndelag"
+  },
+  {
+    "Fylke": "Østfold",
+    "Kommune": "Moss",
+    "Behov": "Flomsikring Vansjø/Mosseelva",
+    "Kostnadsoverslag": "10 000 000",
+    "navn": "Østfold"
+  }
+]
